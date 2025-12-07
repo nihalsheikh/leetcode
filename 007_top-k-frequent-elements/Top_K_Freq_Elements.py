@@ -1,4 +1,5 @@
 def top_k_frequent_elements(nums, k):
+	if len(nums) == k: return nums
 	...
 
 

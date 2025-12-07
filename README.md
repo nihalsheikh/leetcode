@@ -14,4 +14,5 @@
 | 242          | **Valid Anagram**                | Easy       | [Java](./004_valid-anagrams/ValidAnagrams.java) <br/> [Python](./004_valid-anagrams/Valid_Anagrams.py)                                | [Visit](https://leetcode.com/problems/valid-anagram/)                |
 | 49           | **Group Anagrams**               | Medium     | [Java](./005_group-anagrams/GroupAnagrams.java) <br/> [Python](./005_group-anagrams/Group_Anagrams.py)                                | [Visit](https://leetcode.com/problems/group-anagrams/)               |
 | 238          | **Product of Array Except Self** | Medium     | [Java](./006_product-of-array-except-self/ProductOfArray.java) <br/> [Python](./006_product-of-array-except-self/Product_of_Array.py) | [Visit](https://leetcode.com/problems/product-of-array-except-self/) |
-| 247          | **Top K frequent Elements**      | Medium     | [Java](./007_top-k-frequent-elements/TopKFrequentElements.java) <br /> [Python](./007_top-k-frequent-elements/Top_K_Freq_Elements.py) | [Visit](https://leetcode.com/problems/top-k-frequent-elements/)      |
+| 347          | **Top K frequent Elements**      | Medium     | [Java](./007_top-k-frequent-elements/TopKFrequentElements.java) <br /> [Python](./007_top-k-frequent-elements/Top_K_Freq_Elements.py) | [Visit](https://leetcode.com/problems/top-k-frequent-elements/)      |
+
